@@ -4,3 +4,6 @@ Me encuentro aprendiendo JavaScript, como proceso de aprendizaje estoy apoyandom
 
 En este proyecto incluyo pequeños cambios en el JavaScript, HTML y en el CSS como parte de mi aprendizaje visto en el curso. 
 ---
+
+Aqui puedes ver el sitio funcionando en tiempo real:
+https://dan-raccoon-69.github.io/proyecto1_carrito_compras/
